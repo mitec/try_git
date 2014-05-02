@@ -1,0 +1,7 @@
+{
+    "name": "mitec/try",
+    
+    "require": {
+        "php": ">=5.4"
+    }
+}
